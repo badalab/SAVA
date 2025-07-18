@@ -5,9 +5,9 @@
 
 ---
 <p align="center">
-  <img width="180" alt="SAVA logo" src="https://github.com/user-attachments/assets/101d6e2e-0463-458a-9fb0-d1450648c6eb" />
+  <img width="370" alt="SAVA logo" src="https://github.com/user-attachments/assets/101d6e2e-0463-458a-9fb0-d1450648c6eb" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="180" alt="BADA logo" src="https://github.com/user-attachments/assets/2c367724-a22f-47b3-aa9b-1b0389da14a0" />
+  <img width="370" alt="BADA logo" src="https://github.com/user-attachments/assets/2c367724-a22f-47b3-aa9b-1b0389da14a0" />
 </p>
 
 ## 🧠 About the Project
