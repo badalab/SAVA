@@ -9,9 +9,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img width="180" alt="BADA logo" src="https://github.com/user-attachments/assets/2c367724-a22f-47b3-aa9b-1b0389da14a0" />
 </p>
-> 🌐 언어 선택 | Language Selection  
-> 🇰🇷 [한국어 보기](./README.ko.md)
-
+<p><strong>🌐 README.md Language Selection</strong><br>
+🇰🇷 <a href="README.ko.md">한국어 보기</a></p>
 ## 🧠 About the Project
 
 **SAVA** (Self-Aware Vector Agent) is a locally-operated artificial intelligence system  
