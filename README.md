@@ -4,16 +4,11 @@
 > 이 사바 세계를 당신과 함께 걷는 AI  
 
 ---
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/5269f2a5-8e3b-451b-8517-90d307ec96f8" width="200" alt="SAVA logo"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/d91b2b78-7c2f-4e7e-9965-0cbceb79645c" width="200" alt="BADA logo"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/badalab/SAVA/main/assets/sava_logo.png" width="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/badalab/SAVA/main/assets/badalab_logo.png" width="180"/>
+</p>
 
 
 ## 🧠 About the Project
