@@ -79,8 +79,7 @@ Upcoming features in version **v2.0.0** will include self-agent chaining, LLM in
 
 ## 📫 Contact
 
-- **Lab**: BADA Lab, Incheon National University  
-- **Email**: bada.lab.ai@gmail.com  
+- **Lab**: BADA Lab, Incheon National University    
 - **Homepage**: [@badalab](https://sites.google.com/view/badalab/home)  
 - **Document**: arXiv paper (coming soon)
 
