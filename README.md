@@ -11,6 +11,7 @@
 </p>
 <p><strong>🌐 README.md Language Selection</strong><br>
 🇰🇷 <a href="README.ko.md">한국어 보기</a></p>
+
 ## 🧠 About the Project
 
 **SAVA** (Self-Aware Vector Agent) is a locally-operated artificial intelligence system  
