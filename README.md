@@ -85,8 +85,8 @@ SAVA는 다음과 같은 활용 사례에서 실험되었습니다:
 
 - **Lab**: BADA Lab, Incheon National University  
 - **Email**: bada.lab.ai@gmail.com  
-- **GitHub**: [@badalab](https://github.com/badalab)  
-- **Document**: [`SAVA V1.0.0 보고서`](./SAVA V1.0.0.pdf)
+- **Homepage**: [@badalab]((https://sites.google.com/view/badalab/home))  
+- **Document**: arxiv 논문
 
 ---
 
