@@ -35,7 +35,7 @@ SAVA consists of three core components:
 - **Cognitive Buffer**: A short-term memory buffer built on SQLite, storing structured JSON records of user interactions.  
 - **Inner Knowledge Base**: A long-term memory store implemented with TorchHD-based VSA, featuring hierarchical memory, forgetting, and reconstruction.
 
-📘 For a full system overview, refer to the [`SAVA V1.0.0 Report`](./SAVA%20V1.0.0%20(20250718).pdf).
+📘 For a full system overview, refer to the [`SAVA V1.0.0 Report`](./SAVA%20V1.0.0.pdf).
 
 ---
 
