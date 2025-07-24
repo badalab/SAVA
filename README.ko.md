@@ -79,7 +79,6 @@ SAVA는 다음과 같은 활용 사례에서 실험되었습니다:
 
 - **Lab**: BADA Lab, Incheon National University    
 - **Homepage**: [@BADA Lab](https://sites.google.com/view/badalab/home)    
-- **Document**: arxiv 논문
 
 ---
 
