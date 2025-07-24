@@ -81,7 +81,6 @@ Upcoming features in version **v2.0.0** will include self-agent chaining, LLM in
 
 - **Lab**: BADA Lab, Incheon National University    
 - **Homepage**: [@BADA Lab](https://sites.google.com/view/badalab/home)  
-- **Document**: arXiv paper (coming soon)
 
 ---
 
